@@ -1,0 +1,1 @@
+function reloadImg(e){var b=document.getElementById(e);var c=b.src;var d=c.indexOf("?");if(d>=0){c=c.substr(0,d)}var a=new Date();b.src=c+"?v="+a.getTime()};

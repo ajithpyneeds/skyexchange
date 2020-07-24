@@ -1,0 +1,1 @@
+if(typeof(FraudProtectionSystemHandler)=="undefined"){FraudProtectionSystemHandler={}}(function(){FraudProtectionSystemHandler.init=function(){!function(g,d,b,j,i){var f=d.createElement(b),h=d.getElementsByTagName(b)[0];f.async=true,f.src=i,h.appendChild(f)}(window,document,"script","body","//sc.detecas.com/di/activator.ashx")}})();

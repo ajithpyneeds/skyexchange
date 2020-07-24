@@ -1,0 +1,1 @@
+if(typeof CombinationHandler=="undefined"){CombinationHandler={}}(function(){var b=[];CombinationHandler.generator=function(d,c,e){b=[];a(d,c,0,0,e)};function a(f,e,j,d,h){var c=d+1;if(c>e){h(b);return}for(var g=j;g<f.length+c-e;g++){b[d]=f[g];a(f,e,g+1,d+1,h)}}})();

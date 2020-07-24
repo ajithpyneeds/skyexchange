@@ -1,0 +1,1 @@
+if(typeof(AccountUtil)=="undefined"){AccountUtil={}}(function(){var a=function(c,b){return(c&b)>0};AccountUtil.isEnableSportsBook=function(c,b){return a(c,b)}})();
